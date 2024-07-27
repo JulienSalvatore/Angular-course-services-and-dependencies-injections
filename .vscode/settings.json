@@ -1,0 +1,20 @@
+{
+  "folder-color.pathColors": [
+    {
+      "folderPath": "01-starting-project\\src\\app\\tasks\\",
+      "color": "foldercolorizer.yellow"
+    },
+    {
+      "folderPath": "01-starting-project\\src\\app\\tasks\\new-task\\",
+      "color": "foldercolorizer.pink"
+    },
+    {
+      "folderPath": "01-starting-project\\src\\app\\tasks\\tasks-list\\",
+      "color": "foldercolorizer.yellow"
+    },
+    {
+      "folderPath": "01-starting-project\\src\\app\\tasks\\task.model.ts\\",
+      "color": "foldercolorizer.blue"
+    }
+  ]
+}
